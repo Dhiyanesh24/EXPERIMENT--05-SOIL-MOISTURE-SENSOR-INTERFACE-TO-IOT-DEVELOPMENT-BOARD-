@@ -139,10 +139,9 @@ while (1)
 
 ## Output screen shots on serial monitor   :
  
- ![WhatsApp Image 2024-04-23 at 11 40 05_0d67e577](https://github.com/Dhiyanesh24/EXPERIMENT--05-SOIL-MOISTURE-SENSOR-INTERFACE-TO-IOT-DEVELOPMENT-BOARD-/assets/118362288/1cee5d94-9dec-4715-ac8d-d976ff4536c3)
+![WhatsApp Image 2024-04-25 at 13 41 19_15e76a44](https://github.com/Dhiyanesh24/EXPERIMENT--05-SOIL-MOISTURE-SENSOR-INTERFACE-TO-IOT-DEVELOPMENT-BOARD-/assets/118362288/26486456-f300-4570-813e-865f39b6c071)
 
- ![WhatsApp Image 2024-04-23 at 11 40 06_cb21ab4c](https://github.com/Dhiyanesh24/EXPERIMENT--05-SOIL-MOISTURE-SENSOR-INTERFACE-TO-IOT-DEVELOPMENT-BOARD-/assets/118362288/397b98a6-aa74-4b06-a8a4-d36e550e72bf)
+ ![WhatsApp Image 2024-04-25 at 13 41 20_7e82d002](https://github.com/Dhiyanesh24/EXPERIMENT--05-SOIL-MOISTURE-SENSOR-INTERFACE-TO-IOT-DEVELOPMENT-BOARD-/assets/118362288/3857bdba-0bab-46dc-ba7a-5f3ae89ae93e)
 
- 
 ## Result :
 Interfacing a Analog Input (soil moisture sensor) with ARM microcontroller based IOT development is executed and the results visualized on serial monitor 
